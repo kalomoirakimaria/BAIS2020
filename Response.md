@@ -1,10 +1,3 @@
-1.	Resource URL : https://developer.github.com/
-2.	API analysis :
-•	API Template
-Parameters
-
-
-3.	
 {
     "current_user_url": "https://api.github.com/user",
     "current_user_authorizations_html_url": "https://github.com/settings/connections/applications{/client_id}",
